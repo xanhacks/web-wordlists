@@ -15,6 +15,7 @@ This project provides a collection of **curated wordlists optimized for web pent
 
 - [html_tags.txt](./html/html_tags.txt): List of all HTML tags.
 - [html_events.txt](./html/html_events.txt): List of all HTML javascript events.
+    - [Chromium Code Search - event_handler_names.h](https://source.chromium.org/chromium/chromium/src/+/main:out/win-Debug/gen/third_party/blink/renderer/core/trustedtypes/event_handler_names.h)
 
 ## SQL Keywords
 
